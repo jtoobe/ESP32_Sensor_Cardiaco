@@ -1,6 +1,6 @@
 /*
  * pograma que usa un sensor cardiaco y muestra los latidos con un led
- * tiene conectado un potenciometro para ajustar un valor que se  
+ * tiene conectado un potenciometro (10k lineal) para ajustar un valor que se  
  * compara con lo leido para determinar el pulso
  * 
  */
